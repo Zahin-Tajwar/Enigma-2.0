@@ -36,6 +36,6 @@ Click Quit when you are done with encrypting or decrypting message and sleep in 
 - Tkinter
 - Webbrowser
 
-### Tutorial : https://www.youtube.com/watch?v=hhg0cvQ9QP8
+### Tutorial used : https://www.youtube.com/watch?v=hhg0cvQ9QP8
 
 **Goodbye😊**
